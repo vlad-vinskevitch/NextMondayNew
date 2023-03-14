@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="content_description_logo_image">Логотип</string>
+    <string name="content_description_google_image">Зараєструватись через гугл</string>
+
+</resources>

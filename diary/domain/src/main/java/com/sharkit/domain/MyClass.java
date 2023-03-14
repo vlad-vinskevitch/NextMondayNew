@@ -1,4 +1,6 @@
 package com.sharkit.domain;
 
-public class MyClass {
+public interface MyClass {
+
+    void print();
 }

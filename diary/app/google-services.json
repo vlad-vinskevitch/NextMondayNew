@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "775199845822",
+    "project_id": "nextmonday-27d8b",
+    "storage_bucket": "nextmonday-27d8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775199845822:android:fd441c41076e5f0d515def",
+        "android_client_info": {
+          "package_name": "com.sharkit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775199845822-fgbseu305hj9u1p7jdfe9jl4kv0vfh6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sharkit.app",
+            "certificate_hash": "8621ef7524928384f4024d98b59a6d8d5d27306b"
+          }
+        },
+        {
+          "client_id": "775199845822-4iqh12erl6f4p20t8d8pnip7ct9gjqbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6SXPSiGavlkBSce-UOvVuLbdZokS70XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775199845822-4iqh12erl6f4p20t8d8pnip7ct9gjqbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -16,3 +16,7 @@ rootProject.name = "NextMonday"
 include ':diary:app'
 include ':diary:domain'
 include ':diary:application'
+include ':auth:app'
+include ':auth:application'
+include ':auth:domain'
+include ':auth:infrastructure:infrastructure-firebase'

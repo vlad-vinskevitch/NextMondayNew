@@ -8,6 +8,8 @@ java {
 }
 
 dependencies {
+    implementation 'com.google.dagger:dagger:2.40.5'
+    annotationProcessor 'com.google.dagger:dagger-compiler:2.40.5'
 
     implementation project(":diary:domain")
 }
