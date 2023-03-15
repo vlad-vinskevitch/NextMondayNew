@@ -51,3 +51,5 @@ dependencies {
     implementation project(':auth:application')
     implementation project(':auth:infrastructure:infrastructure-firebase')
 }
+
+apply plugin: 'com.google.gms.google-services'
